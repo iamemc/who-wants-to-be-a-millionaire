@@ -1,8 +1,3 @@
-# METADATA
-
-- Created on Tue Oct  6 17:45:37 2020
-	- @author: ROG-PC
-
 - Eduardo Carvalho
 	- nº 55881
 		- fc55881@alunos.fc.ul.pt
